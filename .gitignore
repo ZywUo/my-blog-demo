@@ -1,0 +1,9 @@
+#Node.js dependencies
+node_modules/
+
+#VuePress build output
+docs/.vuepress/dist/
+
+#temp and cache files
+docs/.vuepress/.temp/
+docs/.vuepress/.cache/
